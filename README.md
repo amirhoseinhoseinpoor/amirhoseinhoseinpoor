@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @amirhoseinhoseinpoor
-- 👀 I’m interested in front-end tools like React
-- 🌱 I’m currently learning next.js
+- 👀 I’m interested in front-end tools
 - 📫 How to reach me just call my phone or leave me a message
-- 😄 and by the way im 21 years old
+- 😄 and by the way im 22 years old
 - 
 
 <!---
